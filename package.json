@@ -1,0 +1,21 @@
+{
+  "name": "irongroup",
+  "version": "1.0.0",
+  "description": "An OSRS Group Ironman experience and quest tracking application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiecasti280/IronGroup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eddiecasti280/IronGroup/issues"
+  },
+  "homepage": "https://github.com/eddiecasti280/IronGroup#readme"
+}
